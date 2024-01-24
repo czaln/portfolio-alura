@@ -1,7 +1,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://prnt.sc/WzFzle5Sfv1r)
+![image](/assets/placeholder.png)
 
 ## Ferramentas utilizadas:
 
