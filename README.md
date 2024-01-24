@@ -16,6 +16,6 @@
 
 ### César A.
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/cesaralnunes/)https://www.linkedin.com/in/cesaralnunes/
+### Linkedin: (https://www.linkedin.com/in/cesaralnunes/)https://www.linkedin.com/in/cesaralnunes/
 
 ```
