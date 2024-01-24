@@ -46,6 +46,10 @@ body{
     padding: 1px;
 }
 
+.apresentacao__imagem.curriculo {
+    align-self: flex-start;
+}
+
 .titulo-destaque {
     color: var(--cor-terciaria);
 }
