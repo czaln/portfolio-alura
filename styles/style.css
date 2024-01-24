@@ -111,7 +111,7 @@ body{
     font-weight: 600;
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover);
 }
 
@@ -121,13 +121,22 @@ body{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
-    font-family: var();
+    font-family: var(--fonte-secundaria);
     font-weight: 400;
 }
 
 @media (max-width: 1200px){
+    body {
+        overflow-x: hidden;
+    }
+    
     .cabecalho {
-        padding: 10%;
+        width: 100%;
+        padding: 5% 0;
+    }
+
+    .cabecalho__menu {
+        gap: 30px;
     }
 
     .cabecalho__menu {
@@ -142,8 +151,9 @@ body{
     .apresentacao__conteudo {
         width: auto;
     }
-    
+
     .apresentacao__imagem {
-        width: auto;
+        width: 100%;
+        max-width: 100%;
     }
 }
