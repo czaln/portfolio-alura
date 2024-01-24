@@ -17,4 +17,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### César A.
 
-### Linkedin: (https://www.linkedin.com/in/cesaralnunes/)https://www.linkedin.com/in/cesaralnunes/
+### Linkedin: https://www.linkedin.com/in/cesaralnunes/
